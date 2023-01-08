@@ -2,13 +2,17 @@
 
 #### By _**Brian Yoder**_
 
-#### _A website that calculates your age based on different planetary years._
+#### _A website that calculates` your age based on different planetary years._
 
 ## Technologies Used
 
 * MacBook Pro (13-inch, M1, 2020), macOS Monterey v. 12.6
 * VSCode v. 1.72.2
-
+* Javascript
+* Jest
+* Babel
+* ESLint
+* Webpack
 
 ## Setup/Installation Requirements
 
@@ -17,8 +21,14 @@
 * type **git clone https://github.com/brianwilliamyoder/age-calculator** into the terminal and press Enter on the keyboard
 * Navigate to the desktop and click on the "age-calculator" folder.
 * Open the folder in VS Code
-* In the VS Code terminal run the following code in the terminal "$ npm run start"
+* _The next steps will take place in the terminal_
+* Navigate to the age-calculator folder relative to your current directory
+* Enter "$ npm install"
+* Enter "$ npm run build"
+* Enter "$ npm run start" to have it open in the browser
+* Enter "$ npm run test" to view all testing data
 * Enter the prompted information on the website, and click "Submit!" 
+* 
 * Enjoy the info!
 
 
