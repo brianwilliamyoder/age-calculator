@@ -25,10 +25,10 @@
 * Navigate to the age-calculator folder relative to your current directory
 * Enter "$ npm install"
 * Enter "$ npm run build"
-* Enter "$ npm run start" to have it open in the browser
 * Enter "$ npm run test" to view all testing data
+* Enter "$ npm run start" to have it open in the browser
+
 * Enter the prompted information on the website, and click "Submit!" 
-* 
 * Enjoy the info!
 
 
